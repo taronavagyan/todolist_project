@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "express": "4",
+    "http-errors": "1",
+    "lodash": "^4.17.21",
+    "morgan": "1.9"
+  },
+  "name": "todolist",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taronavagyan/todolist_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taronavagyan/todolist_project/issues"
+  },
+  "homepage": "https://github.com/taronavagyan/todolist_project#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.4",
+    "eslint": "^8.25.0"
+  }
+}
